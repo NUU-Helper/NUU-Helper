@@ -6,7 +6,7 @@ Name: NUU Helper 聯大助手 - 你的校園生活好朋友
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NUU-Helper4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NUU-Helper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
 
 ## <img src="https://raw.githubusercontent.com/NUU-Helper/NUU-Helper/master/images/svg/social/users-solid.svg" height="24px" alt="Social"> Social
 <a href="https://thssa.nctu.me/">
