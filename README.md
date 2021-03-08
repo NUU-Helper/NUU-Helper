@@ -1,5 +1,5 @@
 # <img src="https://github.com/NUU-Helper/NUU-Helper/blob/main/images/svg/github-brands.svg" height="28px" alt="GitHub"> Welcome to my GitHub profile!
-We are students's team who from NUU CSIE in Taiwan. We enjoy coding and We have developed a few projects about NUU-Helper.
+We are students' team who from NUU CSIE in Taiwan. We enjoy coding and We have developed a few projects about NUU-Helper.
 
 ## <img src="https://github.com/NUU-Helper/NUU-Helper/blob/main/images/svg/social/users-solid.svg" height="24px" alt="Social"> Social
 <a href="https://hhk.one/NUU-Helper/">
