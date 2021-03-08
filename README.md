@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/NUU-Helper/NUU-Helper/master/images/svg/github-brands.svg" height="28px" alt="GitHub"> Welcome to my GitHub profile!
 We are students's team who from NUU CSIE in Taiwan. We enjoy coding and We have developed a few projects about NUU-Helper.
 
-## <img src="https://raw.githubusercontent.com/NUU-Helper/DNUU-Helper/master/images/svg/profile/id-card-solid.svg" height="24px" alt="Profile"> Profile
+## <img src="https://raw.githubusercontent.com/NUU-Helper/NUU-Helper/master/images/svg/profile/id-card-solid.svg" height="24px" alt="Profile"> Profile
 Name: NUU Helper 聯大助手 - 你的校園生活好朋友
 <br>
 
